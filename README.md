@@ -1,6 +1,6 @@
 # An Expense tracker using Python & SQLite3
 
-Expense Tracker is a Python application that allows users to manage their expenses. It utilizes SQLite as the database backend and provides a menu-based interface for various expense-related operations.
+Expense Tracker is a CLI based Python application that allows users to manage their expenses. It utilizes SQLite as the database backend and provides a menu-based interface for various expense-related operations.
 
 # Features
 - Enter a new expense: Users can enter a new expense by providing the date, description, category, and price. They can choose from existing categories or create new ones. <br>
